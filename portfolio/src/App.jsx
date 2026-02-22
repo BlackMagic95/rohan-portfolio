@@ -78,7 +78,7 @@ function App() {
 
       {/* RESUME LINK */}
       <motion.a
-        href="/resume.pdf"
+        href="/Resume_Rohan_Kumar.pdf"
         target="_blank"
         rel="noopener noreferrer"
         className="relative group"
